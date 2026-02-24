@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 
 //Gives importance to different pages
 export default function sitemap(): MetadataRoute.Sitemap {
-	const baseUrl = "https://littleargent.com";
+	const baseUrl = "https://joshuaargent.vercel.app";
 
 	return [
 		{
@@ -25,24 +25,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
 		},
 		{
 			url: `${baseUrl}/projects/pingelo`,
-			lastModified: new Date(),
-			changeFrequency: "monthly",
-			priority: 0.7,
-		},
-		{
-			url: `${baseUrl}/projects/yearlygo`,
-			lastModified: new Date(),
-			changeFrequency: "monthly",
-			priority: 0.7,
-		},
-		{
-			url: `${baseUrl}/projects/argentflows`,
-			lastModified: new Date(),
-			changeFrequency: "monthly",
-			priority: 0.7,
-		},
-		{
-			url: `${baseUrl}/projects/littleflows`,
 			lastModified: new Date(),
 			changeFrequency: "monthly",
 			priority: 0.7,
