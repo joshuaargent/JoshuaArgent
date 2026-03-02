@@ -35,25 +35,12 @@ export default function PingEloProjectPage() {
 
 				<div className="flex flex-wrap gap-4 pt-2">
 					<a
-						href="https://pingelo.vercel.app"
+						href="https://pingelo.leapcell.app"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
 						<button className="px-4 py-2 bg-accent-button text-button-text rounded-lg font-semibold hover:bg-accent-button-hover transition-colors">
 							Live Site
-						</button>
-					</a>
-
-					<a
-						href="https://github.com/joshu-git/pingelo"
-						target="_blank"
-						rel="noopener noreferrer"
-					>
-						<button
-							className="px-3 py-1 bg-card border border-[var(--color-border)] rounded-md hover:bg-accent-soft transition-colors"
-							style={{ color: "var(--color-text)" }}
-						>
-							GitHub
 						</button>
 					</a>
 
@@ -78,7 +65,7 @@ export default function PingEloProjectPage() {
 							<li>React, Tailwind CSS</li>
 							<li>Express + TypeScript API</li>
 							<li>Supabase PostgreSQL</li>
-							<li>Vercel (frontend), Render (backend)</li>
+							<li>Leapcell (frontend & backend)</li>
 						</ul>
 					</Card>
 
@@ -197,7 +184,7 @@ export default function PingEloProjectPage() {
 						<ul className="list-disc pl-5 text-text-muted space-y-1">
 							<li>Players</li>
 							<li>Group Admins</li>
-							<li>Managers (multi-group control)</li>
+							<li>Managers (multi group control)</li>
 						</ul>
 					</Card>
 				</div>
