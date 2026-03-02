@@ -1,7 +1,6 @@
 import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
-import CookieConsent from "@/components/layout/CookieConsent";
 
 import type { Metadata } from "next";
 
@@ -12,7 +11,7 @@ export const metadata: Metadata = {
 	},
 
 	description:
-		"Joshua Argent is a full stack developer and automation engineer building scalable, data-driven web applications with TypeScript, Next.js, and PostgreSQL.",
+		"Joshua Argent is a full stack developer and automation engineer building scalable, data driven web applications with TypeScript, Next.js, and PostgreSQL.",
 
 	keywords: [
 		"Joshua Argent",
@@ -30,15 +29,15 @@ export const metadata: Metadata = {
 	creator: "Joshua Argent",
 	publisher: "Joshua Argent",
 
-	metadataBase: new URL("https://littleargent.com"),
+	metadataBase: new URL("https://joshuaargent.vercel.app"),
 
 	openGraph: {
 		title: "Joshua Argent | Full Stack Developer & Automation Engineer",
 		description:
 			"Full stack developer and automation engineer building scalable systems, workflow automation, and modern web applications with TypeScript and Next.js.",
-		url: "https://littleargent.com",
+		url: "https://joshuaargent.vercel.app",
 		siteName: "Joshua Argent",
-		locale: "en_US",
+		locale: "en_GB",
 		type: "website",
 		images: [
 			{
@@ -95,8 +94,6 @@ export default function RootLayout({
 				</main>
 
 				<Footer />
-
-				<CookieConsent />
 			</body>
 		</html>
 	);
