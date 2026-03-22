@@ -1,9 +1,89 @@
-# 💫 About Me:
-🔭 I’m currently working on [PingElo](https://pingelo.vercel.app)<br>🤝 I’m looking for help with [GroupFlos](https://groupflos.vercel.app)<br>🌱 I’m currently learning Python<br>💬 Ask me about [GroupFlos](https://groupflos.vercel.app)<br>🏓 Fun fact: I love table tennis
+# ⚡ Joshua
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joshuaargent&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=joshuaargent&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaargent&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+**Builder of EloFlos — a modular social growth platform**
+
+---
+
+## 🧠 About Me
+
+I’m building **EloFlos**, a platform designed to gamify real-world progress through competitive systems, social interaction, and structured growth.
+
+What started as a table tennis ranking system (**PingElo**) has evolved into a broader ecosystem where users can track performance, compete in leagues, and develop across multiple areas of life.
+
+I’m focused on creating systems that make **progress visible, competitive, and meaningful**.
+
+---
+
+## 🚀 Current Work
+
+* 🏗️ Building **EloFlos** (multi-module platform: sport, fitness, productivity)
+* 🧩 Designing scalable systems: **XP, levels, leagues, economy**
+* 🔐 Developing secure architecture using **Supabase (RLS) + backend validation**
+* 🎯 Refining UX across **navigation, dashboards, and social systems**
+
+---
+
+## 🌐 Platform
+
+**EloFlos (formerly PingElo)**
+→ https://eloflos.vercel.app
+
+A modular platform combining:
+
+* Competitive leagues
+* Experience based progression
+* Social groups and identity
+* Cross-domain personal growth
+
+---
+
+## 🧱 Tech Stack
+
+**Core**
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge\&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge\&logo=express)
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge\&logo=next.js)
+
+**Backend & Data**
+![Postgres](https://img.shields.io/badge/Postgres-0A0A0A?style=for-the-badge\&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge\&logo=supabase)
+
+**Infra**
+![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge\&logo=vercel)
+![Render](https://img.shields.io/badge/Render-0A0A0A?style=for-the-badge\&logo=render)
+
+---
+
+## 🧩 System Design Focus
+
+* Modular architecture (multi-activity platform)
+* Gamification systems (XP, progression curves, leagues)
+* Secure data models (RLS + validated backend logic)
+* Scalable database design (extensible modules)
+
+---
+
+## 📊 GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=joshuaargent\&theme=dark\&hide_border=true\&show_icons=true\&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=joshuaargent\&theme=dark\&hide_border=true)
+
+---
+
+## ⚡ Philosophy
+
+> Build systems where real-world effort translates into measurable progress.
+
+---
+
+## 📬 Contact
+
+Always open to:
+
+* Collaboration
+* Feedback
+* Early users
+
+---
