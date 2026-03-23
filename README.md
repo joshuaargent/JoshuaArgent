@@ -1,20 +1,22 @@
 # ⚡ Joshua Argent
 
+**Building scalable full stack systems with Next.js and NestJS**
+
 **Founder of EloFlos | Gamify Real World Progress**
 
 ---
 
 ## 🧠 About Me
 
-I’m the creator of **EloFlos**, a full stack platform that tracks real-world activities and converts them into structured progression systems (XP, levels, leagues).
+I’m the creator of **EloFlos**, a fullbstack platform that tracks real world activities and converts them into structured progression systems (XP, levels, leagues).
 
 I build systems that:
 
 * record and validate user activity
 * calculate progression (XP, levels, rankings)
-* present data through responsive dashboards and social features
+* present data through dashboards and social features
 
-I’m focused on **full stack development, system design, and building products with strong user engagement loops**.
+I’m focused on **full stack development, system design, and building products that people actively use**.
 
 ---
 
@@ -44,11 +46,20 @@ A platform where users:
 
 ## ⚙️ Key Technical Work
 
-* Designed a reusable XP and leveling system that supports multiple activity types
+* Designed a reusable XP and leveling system supporting multiple activity types
 * Built backend validation to enforce data integrity alongside Supabase RLS
 * Structured a modular system allowing new domains to plug into the same progression engine
 * Developed responsive dashboards and navigation systems using Next.js
 * Designed backend services using **NestJS with Fastify** for performance and scalability
+
+---
+
+## 📌 Featured Projects
+
+* **EloFlos** - Full stack platform for XP, progression, leagues, and social features *(code private)*
+* **NextJsTemplate** - Reusable frontend starter with layout, navigation, and theming
+* **NestJsTemplate** - Backend starter using NestJS (Fastify), modular architecture, and validation
+* **Portfolio** - Personal website showcasing projects and technical work
 
 ---
 
@@ -78,16 +89,8 @@ A platform where users:
 
 * Modular architecture supporting multiple activity domains
 * Shared progression system across all modules
-* Backend validation layer combined with database-level security (RLS)
-* Separation between frontend, API, and data layers
-
----
-
-## 📊 GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=joshuaargent\&theme=dark\&hide_border=true\&show_icons=true\&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=joshuaargent\&theme=dark\&hide_border=true)
+* Backend validation combined with database level security (RLS)
+* Clear separation between frontend, API, and data layers
 
 ---
 
