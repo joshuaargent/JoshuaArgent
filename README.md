@@ -6,48 +6,58 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  <strong>Year 12 student.</strong> Full stack developer. <strong>5km every single day.</strong>
+  <strong>Runner. Reader. Coder.</strong> | Year 12 student | <strong>Surrey, UK</strong>
 </p>
 
-I'm Joshua — I build websites, track my runs, read books, and explore my faith in Surrey, UK.
+---
 
-> 📍 Surrey, UK • 🏃 5km/day • 📖 1 book/week • 💻 Next.js & TypeScript
+I'm Joshua. I run 5km a day, read a lot and share what I learn about fitness and faith. I also build websites for friends, communities and businesses.
+
+> Surrey, UK • 5km/day • 1 book/week • Faith driven discipline • Next.js & TypeScript
 
 ---
 
-## 🏃 The streak
-
-Every single day since I started, I've run 5km. Not fast, not far — just consistent. Running has taught me that **showing up every day beats trying hard once**.
-
----
-
-## 🛠️ Tech
+## Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?icons=typescript,javascript,react,nextjs,nodejs,postgresql,vercel,git,github&theme=light" />
 </p>
 
-| Focus | Why |
-|-------|-----|
-| Next.js App Router | Serverless, type-safe, fast |
-| API integration | YouTube, Strava, GitHub — real data |
-| Daily habits | Building tools I actually use |
-
 ---
 
-## 📦 What I've built
+## Projects
 
 | Project | Stack | Notes |
 |---------|-------|-------|
-| [Portfolio](https://github.com/joshuaargent/portfolio) | Next.js, TypeScript, Strava API | This site — running tracker, book library, YouTube integration |
+| [Portfolio](https://github.com/joshuaargent/portfolio) | Next.js, TypeScript, Strava API | My personal site — running tracker, book library, YouTube integration |
 | [Exam Spec Adaptive Revision](https://github.com/joshuaargent/exam-spec-adaptive-revision) | Next.js, AI, PostgreSQL | Turns study notes into flashcards — in development |
 
 ---
 
-## 🌐 Connect
+## Daily Discipline
+
+I run 5km every single day - not primarily for speed, but for consistency.  
+Running taught me that **showing up is more important than intensity**.  
+That mindset and discipline shapes everything I build and practice.
+
+---
+
+## Reading
+
+I read every day and track what I learn. Books shape my thinking, my discipline, and my faith.  
+I'm building tools to make reading more intentional and measurable.
+
+---
+
+## Faith
+
+My faith shapes how I approach discipline, work, and growth.  
+I share simple reflections on what I'm learning and how it impacts my daily life.
+
+---
+
+## Connect
 
 <p align="center">
   <a href="https://github.com/joshuaargent">
@@ -70,8 +80,5 @@ Every single day since I started, I've run 5km. Not fast, not far — just consi
 ---
 
 <p align="center">
-  <em>Showing up every day. Building things that help people.</em>
-</p>
-<p align="center">
-  <em>Showing up every day. Building things that help people.</em>
+  <em>Showing up consistently. Praise be to the Lord.</em>
 </p>
