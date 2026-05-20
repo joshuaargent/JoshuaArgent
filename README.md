@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=200&section=header&text=Joshua%20Argent&fontSize=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=200&section=header&text=Joshua%20Argent&fontSize=60&animation=fadein)
 
 <p align="center">
   <a href="https://joshuaargent.vercel.app">
@@ -18,17 +18,13 @@ I'm Joshua — I build websites, track my runs, read books, and explore my faith
 
 ---
 
-## The streak
+## 🏃 The streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joshuaargent&theme=neon&background=0D9488&fire=DDAA33&ring=DDAA33&locale=en" alt="Streak" />
-</p>
-
-I ran 5km **yesterday, and every day before that since I started**. Running has taught me that consistency beats intensity — the same way I approach building software.
+Every single day since I started, I've run 5km. Not fast, not far — just consistent. Running has taught me that **showing up every day beats trying hard once**.
 
 ---
 
-## Tech I'm working with
+## 🛠️ Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?icons=typescript,javascript,react,nextjs,nodejs,postgresql,vercel,git,github&theme=light" />
@@ -42,7 +38,7 @@ I ran 5km **yesterday, and every day before that since I started**. Running has 
 
 ---
 
-## What I've built
+## 📦 What I've built
 
 | Project | Stack | Notes |
 |---------|-------|-------|
@@ -51,9 +47,9 @@ I ran 5km **yesterday, and every day before that since I started**. Running has 
 
 ---
 
-## Around the web
+## 🌐 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/joshuaargent">
     <img src="https://img.shields.io/badge/GitHub-joshuaargent-black?style=flat&logo=github" alt="GitHub" />
   </a>
@@ -66,12 +62,16 @@ I ran 5km **yesterday, and every day before that since I started**. Running has 
   <a href="https://instagram.com/joshua_argent">
     <img src="https://img.shields.io/badge/Instagram-joshua_argent-E4405F?style=flat&logo=instagram" alt="Instagram" />
   </a>
+  <a href="mailto:argentjackjoshua@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D44444?style=flat&logo=gmail" alt="Email" />
+  </a>
 </p>
-
-[Email me](mailto:argentjackjoshua@outlook.com) or find me anywhere @joshua_argent.
 
 ---
 
+<p align="center">
+  <em>Showing up every day. Building things that help people.</em>
+</p>
 <p align="center">
   <em>Showing up every day. Building things that help people.</em>
 </p>
