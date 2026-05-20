@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=200&section=header&text=Joshua%20Argent&fontSize=60&animation=fadein&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=200&section=header&text=Joshua%20Argent&fontSize=60&animation=fadein&fontColor=ffffff&textY=30)
+
 
 
 <p align="center">
@@ -35,8 +36,8 @@ I'm Joshua. I run 5km a day, read a lot and share what I learn about fitness and
 
 | Project | Stack | Notes |
 |---------|-------|-------|
-| [Portfolio](https://github.com/joshuaargent/portfolio) | Next.js, TypeScript, Strava API | My personal site - running tracker, book library, YouTube integration |
-| [Exam Spec Adaptive Revision](https://github.com/joshuaargent/exam-spec-adaptive-revision) | Next.js, AI, PostgreSQL | Turns study notes into flashcards - in development |
+| [Portfolio](https://github.com/joshuaargent/Portfolio) | Next.js, TypeScript, Strava API | My personal site - running tracker, book library, YouTube integration |
+| [Exam Spec Adaptive Revision](https://github.com/joshuaargent/ExamSpecAdaptiveRevision) | Next.js, AI, PostgreSQL | Turns study notes into flashcards - in development |
 
 ---
 
