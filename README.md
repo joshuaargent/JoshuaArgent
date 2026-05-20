@@ -2,9 +2,13 @@
 
 <p align="center">
   <a href="https://joshuaargent.vercel.app">
-    <img src="https://img.shields.io/website?label=joshuaargent.vercel.app&style=flat&up_color=%230D9488" alt="Website" />
+    <img
+      src="https://img.shields.io/website?url=https%3A%2F%2Fjoshuaargent.vercel.app&label=joshuaargent.vercel.app&style=flat&color=0D9488"
+      alt="Website"
+    />
   </a>
 </p>
+
 
 <p align="center">
   <strong>Runner. Reader. Coder.</strong> | Year 12 student | <strong>Surrey, UK</strong>
@@ -30,8 +34,8 @@ I'm Joshua. I run 5km a day, read a lot and share what I learn about fitness and
 
 | Project | Stack | Notes |
 |---------|-------|-------|
-| [Portfolio](https://github.com/joshuaargent/portfolio) | Next.js, TypeScript, Strava API | My personal site — running tracker, book library, YouTube integration |
-| [Exam Spec Adaptive Revision](https://github.com/joshuaargent/exam-spec-adaptive-revision) | Next.js, AI, PostgreSQL | Turns study notes into flashcards — in development |
+| [Portfolio](https://github.com/joshuaargent/portfolio) | Next.js, TypeScript, Strava API | My personal site - running tracker, book library, YouTube integration |
+| [Exam Spec Adaptive Revision](https://github.com/joshuaargent/exam-spec-adaptive-revision) | Next.js, AI, PostgreSQL | Turns study notes into flashcards - in development |
 
 ---
 
