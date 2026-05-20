@@ -69,9 +69,6 @@ I share simple reflections on what I'm learning and how it impacts my daily life
   <a href="mailto:argentjackjoshua@outlook.com">
     <img src="https://img.shields.io/badge/Email-D44444?style=flat&logo=gmail" alt="Email" />
   </a>
-  <a href="https://github.com/joshuaargent">
-    <img src="https://img.shields.io/badge/GitHub-joshuaargent-black?style=flat&logo=github" alt="GitHub" />
-  </a>
   <a href="https://youtube.com/@joshua_argent">
     <img src="https://img.shields.io/badge/YouTube-joshua_argent-FF0000?style=flat&logo=youtube" alt="YouTube" />
   </a>
