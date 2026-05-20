@@ -66,20 +66,20 @@ I share simple reflections on what I'm learning and how it impacts my daily life
 ## Connect
 
 <p align="center">
+  <a href="mailto:argentjackjoshua@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D44444?style=flat&logo=gmail" alt="Email" />
+  </a>
   <a href="https://github.com/joshuaargent">
     <img src="https://img.shields.io/badge/GitHub-joshuaargent-black?style=flat&logo=github" alt="GitHub" />
   </a>
   <a href="https://youtube.com/@joshua_argent">
     <img src="https://img.shields.io/badge/YouTube-joshua_argent-FF0000?style=flat&logo=youtube" alt="YouTube" />
   </a>
-  <a href="https://www.strava.com/athletes/500534339">
-    <img src="https://img.shields.io/badge/Strava-FC4C02?style=flat&logo=strava" alt="Strava" />
-  </a>
   <a href="https://instagram.com/joshua_argent">
     <img src="https://img.shields.io/badge/Instagram-joshua_argent-E4405F?style=flat&logo=instagram" alt="Instagram" />
   </a>
-  <a href="mailto:argentjackjoshua@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D44444?style=flat&logo=gmail" alt="Email" />
+  <a href="https://www.strava.com/athletes/500534339">
+    <img src="https://img.shields.io/badge/Strava-FC4C02?style=flat&logo=strava" alt="Strava" />
   </a>
 </p>
 
