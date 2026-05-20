@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=200&section=header&text=Joshua%20Argent&fontSize=60&animation=fadein&fontColor=ffffff&textY=30)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=200&section=header&text=Joshua%20Argent&fontSize=60&animation=fadein&fontColor=ffffff&textY=20)
 
 
 
